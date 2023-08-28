@@ -1,4 +1,4 @@
-# RNP-TESTE
+
 1. Inicialização do Spark:
 Objetivo: Criar uma sessão do Spark para permitir operações como leitura/escrita de dados e execução de SQL.
 Funções Importantes:
